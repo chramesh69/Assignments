@@ -1,0 +1,254 @@
+body{
+   font-family:  "Open Sans",sans-serif cursive;
+   
+    background-color: #fff;
+    overflow-x: hidden;
+   
+}
+header{
+    height:100px;
+    width:100%;
+    background-color: #35d0b8;
+   position: fixed;
+    margin-top: 0px;
+    
+}
+header ul{
+    margin-left: 400px;
+    float: left;
+    vertical-align: top;
+}
+header ul li{
+	display:inline-block;
+    font-size: 25px;
+    padding: 12px;
+    margin-top: 40px;
+    
+    
+}
+header ul li a{
+    text-decoration: none;
+    margin-bottom: 15px;
+    color: whitesmoke;
+    vertical-align: top;
+    
+    
+}
+header ul li a:hover{
+    color: #5c9538;
+}
+#home{
+    height:900px;
+    width: 100%;
+    background-color: #22a39f;
+}
+#home h1{
+    margin-top: 0px;;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    text-align: center;
+    padding:300px 180px 10px 180px;
+    font-size: 40px;
+    color: white;
+    font-weight: 800;
+}
+#home p{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 0px;
+    color: white;
+}
+#profile h1,#education h1,#abilities h1,#projects h1, #contact h1{
+    margin-top: 0px;;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    text-align: center;
+    padding:150px 180px 10px 180px;
+    font-size: 40px;
+    color: #22a39f;
+    font-weight: 200;
+}
+p.res{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 0px;
+     color: #22a39f;
+    
+}
+
+/*profile*/
+
+
+#profile{
+    background-color: #ffffff;
+    color: #22a39f;
+    
+}
+.pf{
+    padding: 50px 50px 50px 150px;
+    width: 100%;
+    display: inline-block;
+margin-left: 100px;    
+}
+h2{
+    margin-top: 0px;
+}
+.pic img{
+     
+    border-image: url(brdr.png);
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 279px; height: 302px;
+}
+.about{
+    display: inline-block;
+    width: 280px;
+    vertical-align: top;
+    padding: 20px;
+}
+.pic{
+     display: inline-block;
+    height: 284px;
+    width: 284px;
+     vertical-align: top;
+      padding: 20px;
+    
+}
+.details{
+     display: inline-block;
+     vertical-align: top;
+   width: 280px;
+         padding: 20px;
+}
+
+/*Experiences*/
+
+
+#education{
+    background-color: #f5f5f5;
+    
+}
+.edu{
+   padding: 50px 150px 50px 150px;
+    margin-left: 100px;
+    
+}
+
+.university, .company{
+    display: inline-block;
+    width: 35%;
+    vertical-align: top;
+    
+}
+.desc{
+     display: inline-block;
+    width: 60%;
+    vertical-align: top;
+   
+}
+#projects{
+    background-color: #fcf8e3;
+}
+/*Abilities*/
+
+#projects a:hover{
+    color: #e82460;
+}
+#abilities{
+    background-color: white;
+    color: #22a39f;
+}
+.abl{
+   padding: 50px 150px 50px 150px;
+    margin-left: 100px;
+}
+.skill1{
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+}
+.skill2{
+     display: inline-block;
+    width: 45%;
+    vertical-align: top;
+}
+ul{
+    list-style-type: none;
+}
+
+.tech{
+    width: 45%; 
+    float: left;
+  /*  margin-right: 40px;*/
+    padding: 5px;
+    vertical-align: top;
+    height: 30px;
+    
+}
+.rat{
+     vertical-align: top;
+     width: 45%;
+   /* margin-right: 0px;*/
+    float: right;
+    padding: 5px;
+    height: 30px;
+}
+
+
+#contact{
+    background-color: #434242 ;
+   color: #22a39f;
+}
+#contact h1{
+    color: white;
+}
+.cont{
+    padding: 50px 150px 100px 150px;
+    margin-left: 100px;
+   height: 100%;
+    
+}
+.adrs{
+   /* margin-left: 200px;
+    display: inline-block;
+    width: 450px;
+    vertical-align: top;
+    padding: 50px 0px 50px 50px;*/
+    
+     display: inline-block;
+    width: 45%;
+    vertical-align: top;
+    
+}
+.social{
+    /* display: inline-block;
+    width: 450px;
+     padding: 50px 50px 50px 0px;
+    vertical-align: top;*/
+     display: inline-block;
+    width: 45%;
+    vertical-align: top;
+    
+}
+#contact a{
+    font-size: 19px;
+    text-decoration: none;
+    vertical-align: top;
+    color: #379d76;
+}
+#contact a:hover{
+    color: white;
+}
+#contact img{
+    margin-right: 10px;
+}
+hr {
+    border-color: #727878;
+    margin: 40px 0;
+    opacity: 0.2;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
