@@ -1,0 +1,65 @@
+[
+  {
+    "name": "China",
+    "population": 1367485388,
+    "flagURL": "China.svg",
+    "capital": "Beijing",
+    "gdp": 12261
+  },
+  {
+    "name": "India",
+    "population": 1251695584,
+    "flagURL": "India.svg",
+    "capital": "New Delhi",
+    "gdp": 4716
+  },
+  {
+    "name": "United States of America",
+    "population": 321368864,
+    "flagURL": "US.svg",
+    "capital": "Washington, D.C.",
+    "gdp": 16244
+  },
+    {
+    "name": "Indonesia",
+    "population": 255993674,
+    "flagURL": "Indonesia.svg",
+    "capital": "Jakarta",
+    "gdp": 3362
+  },
+  {
+    "name": "Brazil",
+    "population": 204259812,
+    "flagURL": "Brazil.png",
+    "capital": "Brasília",
+    "gdp": 8538
+  },
+  {
+    "name": "Pakistan",
+    "population": 199085847,
+    "flagURL": "Pakistan.png",
+    "capital": "Islamabad",
+    "gdp": 1429
+  }
+    ,{
+    "name": "Nigeria",
+    "population": 181562056,
+    "flagURL": "Nigeria.png",
+    "capital": "Abuja",
+    "gdp": 3203
+  },
+  {
+    "name": "Bangladesh",
+    "population": 168957745,
+    "flagURL": "Bangladesh.jpg",
+    "capital": "Dhaka",
+    "gdp": 1088
+  },
+  {
+    "name": "Russia",
+    "population": 142423773,
+    "flagURL": "Russia.png",
+    "capital": "Moscow",
+    "gdp": 9243
+  }
+]

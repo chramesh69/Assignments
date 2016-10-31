@@ -1,0 +1,40 @@
+  [
+    {
+      "name": "AB de Villiers: The Autobiography",
+      "author": "Ashwin-Sanghi",
+      "sourceImage":"./images/1.jpg",
+      "price":"362"
+    },
+    {
+      "name": "General Knowledge",
+      "author": "RPH Editorial Board",
+      "price":"30",
+      "sourceImage":"./images/2.jpg"
+         
+    },
+       {
+      "name": "Durjoy Datta",
+      "author": "Durjoy Datta",
+      "price":"133",
+      "sourceImage":"./images/3.jpg"
+    },
+      {
+      "name": "Indian Polity 5th Edition",
+      "author": "M. Laxmikanth",
+      "price":"500",
+      "sourceImage":"./images/4.jpg"
+    },
+    {
+      "name": "Harry Potter And The Chamber Of Secrets",
+      "author": "J.K.Rowling",
+      "price":"800",
+      "sourceImage":"./images/5.jpg"
+    },
+       {
+      "name": "One Indian Girl",
+      "author": "Chetan Bhagat",
+      "price":"90",
+      "sourceImage":"./images/6.jpg"
+    }
+      
+  ]
